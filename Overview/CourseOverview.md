@@ -15,7 +15,7 @@ Leverage AI to supercharge your web dev skills and streamline your workflow, all
 - **AI-powered code conversion**
 - **AI-powered code study**
 
-### Mentor
+### Mentor - Treasure Porth
 
 - Treasure has been working as a software engineer and teaching code since 2015, when she switched careers after attending a free local bootcamp.
 - She tries to make every subject as simple and accessible as possible, and is passionate about affordable education and helping others break into the tech industry.
